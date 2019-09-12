@@ -13,6 +13,9 @@ people
 #### Git + GitHub Commands
 
 Git init - initiate a new local repository
+
 Git status
+
 Git add
+
 Git Commit
