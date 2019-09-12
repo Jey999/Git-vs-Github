@@ -19,3 +19,10 @@ Git status
 Git add
 
 Git Commit
+
+
+| Git Commands  | Git Meaning |
+|---------------|-------------|
+|Git init               |        initiates a new local repository     |
+|               |             |
+|               |             |
